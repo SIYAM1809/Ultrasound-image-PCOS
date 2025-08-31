@@ -1,0 +1,10 @@
+{
+  "counts": {
+    "0_unhealthy": 2297,
+    "1_healthy": 903
+  },
+  "percent": {
+    "0_unhealthy": 71.78125,
+    "1_healthy": 28.218749999999996
+  }
+}

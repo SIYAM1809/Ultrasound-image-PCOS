@@ -1,0 +1,19 @@
+{
+  "global_t_temp": 0.581762619911359,
+  "thr_j": 0.463,
+  "thr_s80": 0.483,
+  "thr_85": 0.46346965432167053,
+  "m_85": {
+    "AUC": 0.8140612412260974,
+    "F1": 0.598035027765912,
+    "ACC": 0.7059375,
+    "SPEC_unhealthy": 0.6787113626466353,
+    "RECALL_healthy": 0.7751937984487539,
+    "J": 0.45390516109538925
+  },
+  "feasible_85": false,
+  "fast_mode": false,
+  "n_boot": 2000,
+  "thr_grid_steps": 20001,
+  "use_unique_thresholds": true
+}
